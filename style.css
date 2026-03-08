@@ -1,9 +1,9 @@
-body {
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
     height: 100vh;
+    margin: 0;
 }
 .container {
     position: relative;
@@ -13,4 +13,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    animation: slide 2s forwards;
 }
