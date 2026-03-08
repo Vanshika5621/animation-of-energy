@@ -24,3 +24,7 @@ body{
     color: white;
     justify-content: center;
 }
+.circlef {
+    background-color: red;
+    animation: moveF 2s forwards;
+}
